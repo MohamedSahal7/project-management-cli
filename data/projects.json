@@ -1,0 +1,15 @@
+[
+    {
+        "title": "CLI Tool",
+        "description": "Test system",
+        "due_date": "2026-07-01",
+        "owner": "Alex",
+        "tasks": [
+            {
+                "title": "Build CLI",
+                "status": "Completed",
+                "assigned_to": ""
+            }
+        ]
+    }
+]
